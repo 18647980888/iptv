@@ -1,125 +1,71 @@
 #EXTM3U
-#EXTINF:-1,中央一套
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV-1",中央一套
 http://222.85.69.6/PLTV/88888888/224/3221227279/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1,中央二套
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV-2",中央二套
 http://222.85.69.6/PLTV/88888888/224/3221227049/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1,中央三套
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV-3",中央三套
 http://222.85.69.6/PLTV/88888888/224/3221227053/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1,中央四套
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV-4",中央四套
 http://222.85.69.6/PLTV/88888888/224/3221227050/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1,中央五套
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV-5",中央五套
 http://222.85.69.6/PLTV/88888888/224/3221227047/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1,中央六套
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV-6",中央六套
 http://222.85.69.6/PLTV/88888888/224/3221227046/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1,中央七套
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV-7",中央七套
 http://222.85.69.6/PLTV/88888888/224/3221227084/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1,中央八套
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV-8",中央八套
 http://222.85.69.6/PLTV/88888888/224/3221227081/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1,中央九套
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV-9",中央九套
 http://222.85.69.6/PLTV/88888888/224/3221227078/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1,中央十套
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV-10",中央十套
 http://222.85.69.6/PLTV/88888888/224/3221227043/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1,中央十一套
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV-11",中央十一套
 http://222.85.69.6/PLTV/88888888/224/3221227040/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1,中央十二套
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV-12",中央十二套
 http://222.85.69.6/PLTV/88888888/224/3221227044/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1,中央新闻
+#EXTINF:-1 tvg-id="CCTVNEWS" tvg-name="CCTV-13",中央新闻
 http://222.85.69.6/PLTV/88888888/224/3221227041/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1,中央少儿
+#EXTINF:-1 tvg-id="CCTVKIDS" tvg-name="CCTV-14",中央少儿
 http://222.85.69.6/PLTV/88888888/224/3221227038/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1,中央音乐
+#EXTINF:-1 tvg-id="CCTVMUSIC" tvg-name="CCTV-15",中央音乐
 http://222.85.69.6/PLTV/88888888/224/3221227037/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1,中央十七套
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV-17",中央十七套
 http://222.85.69.6/PLTV/88888888/224/3221227072/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1,CCTV5+
+#EXTINF:-1 tvg-id="CCTV5P" tvg-name="CCTV-5+",CCTV5+
 http://222.85.69.6/PLTV/88888888/224/3221227220/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1,中国教育-1
+#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV-1",中国教育-1
 http://222.85.69.6/PLTV/88888888/224/3221227034/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1,CGTN
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN",CGTN
 http://222.85.69.6/PLTV/88888888/224/3221227075/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1,河南卫视
+#EXTINF:-1 tvg-id="HNTV1" tvg-name="河南卫视",河南卫视
 http://222.85.69.6/PLTV/88888888/224/3221226984/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1,河南移动电视
+#EXTINF:-1 tvg-id="HNTV2" tvg-name="河南移动电视",河南移动电视
 http://222.85.69.6/PLTV/88888888/224/3221227216/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1,都市频道
-http://222.85.69.6/PLTV/88888888/224/3221226974/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1,民生频道
-http://222.85.69.6/PLTV/88888888/224/3221226994/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1,法治频道
-http://222.85.69.6/PLTV/88888888/224/3221226991/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1,电视剧频道
-http://222.85.69.6/PLTV/88888888/224/3221226971/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1,新闻频道
-http://222.85.69.6/PLTV/88888888/224/3221226997/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1,公共频道
-http://222.85.69.6/PLTV/88888888/224/3221226989/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1,乡村频道
-http://222.85.69.6/PLTV/88888888/224/3221226986/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1,文物宝库
-http://222.85.69.6/PLTV/88888888/224/3221226999/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1,梨园频道
-http://222.85.69.6/PLTV/88888888/224/3221226996/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1,武术世界
-http://222.85.69.6/PLTV/88888888/224/3221227003/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1,浙江卫视
+#EXTINF:-1 tvg-id="ZJTV" tvg-name="浙江卫视",浙江卫视
 http://222.85.69.6/PLTV/88888888/224/3221227008/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1,东方卫视
+#EXTINF:-1 tvg-id="DFTV" tvg-name="东方卫视",东方卫视
 http://222.85.69.6/PLTV/88888888/224/3221227020/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1,江苏卫视
+#EXTINF:-1 tvg-id="JSTV" tvg-name="江苏卫视",江苏卫视
 http://222.85.69.6/PLTV/88888888/224/3221227007/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1,北京卫视
+#EXTINF:-1 tvg-id="BJTV" tvg-name="北京卫视",北京卫视
 http://222.85.69.6/PLTV/88888888/224/3221227036/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1,广东卫视
+#EXTINF:-1 tvg-id="GDTV" tvg-name="广东卫视",广东卫视
 http://222.85.69.6/PLTV/88888888/224/3221227033/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1,黑龙江卫视
+#EXTINF:-1 tvg-id="HLJTV" tvg-name="黑龙江卫视",黑龙江卫视
 http://222.85.69.6/PLTV/88888888/224/3221227039/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1,山东卫视
+#EXTINF:-1 tvg-id="SDTV" tvg-name="山东卫视",山东卫视
 http://222.85.69.6/PLTV/88888888/224/3221227004/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1,安徽卫视
+#EXTINF:-1 tvg-id="AHTV" tvg-name="安徽卫视",安徽卫视
 http://222.85.69.6/PLTV/88888888/224/3221227017/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1,辽宁卫视
+#EXTINF:-1 tvg-id="LNTV" tvg-name="辽宁卫视",辽宁卫视
 http://222.85.69.6/PLTV/88888888/224/3221227014/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1,陕西卫视
+#EXTINF:-1 tvg-id="SXTV" tvg-name="陕西卫视",陕西卫视
 http://222.85.69.6/PLTV/88888888/224/3221227011/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1,贵州卫视
+#EXTINF:-1 tvg-id="GZTV" tvg-name="贵州卫视",贵州卫视
 http://222.85.69.6/PLTV/88888888/224/3221227001/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1,河北卫视
+#EXTINF:-1 tvg-id="HBTV" tvg-name="河北卫视",河北卫视
 http://222.85.69.6/PLTV/88888888/224/3221227027/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1,江西卫视
+#EXTINF:-1 tvg-id="JXTV" tvg-name="江西卫视",江西卫视
 http://222.85.69.6/PLTV/88888888/224/3221227024/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1,湖南卫视
+#EXTINF:-1 tvg-id="HNTV" tvg-name="湖南卫视",湖南卫视
 http://222.85.69.6/PLTV/88888888/224/3221227021/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1,深圳卫视
-http://222.85.69.6/PLTV/88888888/224/3221227029/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1,四川卫视
-http://222.85.69.6/PLTV/88888888/224/3221227026/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1,湖北卫视
-http://222.85.69.6/PLTV/88888888/224/3221227057/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1,天津卫视
-http://222.85.69.6/PLTV/88888888/224/3221227054/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1,云南卫视
-http://222.85.69.6/PLTV/88888888/224/3221227051/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1,重庆卫视
-http://222.85.69.6/PLTV/88888888/224/3221227025/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1,吉林卫视
-http://222.85.69.6/PLTV/88888888/224/3221227022/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1,宁夏卫视
-http://222.85.69.6/PLTV/88888888/224/3221227019/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1,东南卫视
-http://222.85.69.6/PLTV/88888888/224/3221227023/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1,内蒙古卫视
-http://222.85.69.6/PLTV/88888888/224/3221227048/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1,广西卫视
-http://222.85.69.6/PLTV/88888888/224/3221227045/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1,山西卫视
-http://222.85.69.6/PLTV/88888888/224/3221227042/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1,海南卫视
-http://222.85.69.6/PLTV/88888888/224/3221227016/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1,甘肃卫视
-http://222.85.69.6/PLTV/88888888/224/3221227013/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1,金鹰卡通
-http://222.85.69.6/PLTV/88888888/224/3221227012/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1,嘉佳卡通
-http://222.85.69.6/PLTV/88888888/224/3221226995/index.m3u8?icpid=88888888&servicetype=1
-#EXTINF:-1,卡酷动画
-http://222.85.69.6/PLTV/88888888/224/3221226992/index.m3u8?icpid=88888888&servicetype=1
